@@ -12,6 +12,8 @@ displayNames:
 
 locale: smn
 
+supportedTargets: [osx, x11, svg]
+
 modes:
   mobile-default: |
     á š e r t y u i o p â
