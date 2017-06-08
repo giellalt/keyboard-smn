@@ -18,39 +18,39 @@ modes:
   # default
   iso-default: |
     § 1 2 3 4 5 6 7 8 9 0 + ´
-    q w e r t y u i o p å ¨
-    a s d f g h j k l ö ä '
-    < z x c v b n m , . -
+    á š e r t y u i o p â ŋ
+    a s d f g h j k l ö ä đ
+    ž z č c v b n m , . -
   # shift
   iso-shift: |
     ½ ! " # ¤ % & / ( ) = ? `
-    Q W E R T Y U I O P Å ^
-    A S D F G H J K L Ö Ä *
-    > Z X C V B N M ; : _
+    Á Š E R T Y U I O P Â Ŋ
+    A S D F G H J K L Ö Ä Đ
+    Ž Z Č C V B N M ; : _
   # caps
   iso-caps: |
     § 1 2 3 4 5 6 7 8 9 0 + ´
-    Q W E R T Y U I O P Å ¨
-    A S D F G H J K L Ö Ä '
-    < Z X C V B N M , . -
+    Á Š E R T Y U I O P Â Ŋ
+    A S D F G H J K L Ø Æ Đ
+    Ž Z Č C V B N M , . -
   # caps+shift
   iso-caps+shift: |
     ½ ! " # ¤ % & / ( ) = ? `
-    q w e r t y u i o p å ^
-    a s d f g h j k l ö ä *
-    > z x c v b n m ; : _
+    á š e r t y u i o p â ŋ
+    a s d f g h j k l ö ä đ
+    ž z č c v b n m ; : _
   # altR+caps? ctrl+alt+caps?
   iso-alt: |
-    \u{0} \u{0} @ £ $ € \u{0} { [ ] } \ \u{0}
-    â \u{0} € \u{0} ŧ \u{0} \u{0} ï õ \u{0} \u{0} ~
-    á š đ ǥ ǧ ȟ \u{0} ǩ \u{0} ø æ \u{0}
-    | ž \u{0} č ǯ ʒ ŋ µ \u{0} \u{0} \u{0}
+    \u{0} \u{0} @     £ $ € \u{0} { [ ] } \ \u{0}
+    q     w     €     \u{0} ŧ \u{0} \u{0} ï õ \u{0} å ~
+    á     ß     ð     ǥ ǧ ȟ \u{0} ǩ \u{0} ø æ \u{0}
+    ǯ     ʒ     \u{0} ç \u{0} \u{0} \u{0} µ \u{0} \u{0} \u{0}
   # altR+shift+caps? ctrl+alt+shift+caps?
   iso-alt+shift: |
     \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0}
-    Â \u{0} \u{0} \u{0} Ŧ \u{0} \u{0} Ï Õ \u{0} \u{0} \u{0}
-    Á Š Đ Ǥ Ǧ Ȟ \u{0} Ǩ \u{0} Ø Æ \u{0}
-    \u{0} Ž \u{0} Č Ǯ Ʒ Ŋ \u{0} \u{0} \u{0} \u{0}
+    Q     W     \u{0} \u{0} Ŧ     \u{0} \u{0} Ï     Õ     \u{0} Å     \u{0}
+    \u{0} SS    Ð     Ǥ     Ǧ     Ȟ     \u{0} Ǩ     \u{0} Ø     Æ     \u{0}
+    Ǯ     Ʒ     \u{0} Ç     \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0}
   # ctrl+caps?
   iso-ctrl: |
     \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0}
