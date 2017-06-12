@@ -22,7 +22,7 @@ modes:
   mobile-shift: |
     Á Š E R T Y U I O P Â
     A S D F G H J K L Ä Đ
-      Ž Z Č C V B N M Ŋ _
+      Ž Z Č C V B N M Ŋ -
 
 longpress:
   A: Á Å Â Ä Æ Â
@@ -34,7 +34,7 @@ longpress:
   I: Ï
   K: Ǩ
   N: Ŋ
-  O: Õ Ø Ö
+  O: Õ Ö Ø
   Š: W
   T: Ŧ
   V: W
@@ -49,11 +49,13 @@ longpress:
   i: ï
   k: ǩ
   n: ŋ
-  o: õ ø ö
+  o: õ ö ø
   š: w
   t: ŧ
   v: w
   z: ǯ ʒ
+
+  -: _ – —
 
 styles:
   tablet:
