@@ -1,16 +1,15 @@
 ### Generated from fi-t-k0-windows-extended.xml on 2017-06-08 at 07:44.
-
-internalName: smn-windows
+internalName: smn-windows-altdh
 
 displayNames:
-  smn: Anarâškielâ
-  en: Inari Sami
-  fi: Inarinsaame
-  nb: Enaresamisk
-  nn: Enaresamisk
-  'no': Enaresamisk
-  se: Anársámegiella
-  sv: Enaresamiska
+  smn: Anarâškielâ (alt Đ)
+  en: Inari Sami (alt Đ)
+  fi: Inarinsaame (alt Đ)
+  nb: Enaresamisk (alt Đ)
+  nn: Enaresamisk (alt Đ)
+  'no': Enaresamisk (alt Đ)
+  se: Anársámegiella (alt Đ)
+  sv: Enaresamiska (alt Đ)
 
 locale: smn
 
