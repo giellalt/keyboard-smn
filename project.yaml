@@ -14,7 +14,7 @@ email: trond.trosterud@uit.no
 copyright: (c) 2017 Divvun/Giellatekno/UiT
 organisation: UiT Norgga árktalaš universitehta
 
-layouts: [smn,smn-macos,smn-windows]
+layouts: [smn,smn-macos,smn-windows,smn-macos-alt-dh,smn-windows-alt-dh]
 
 version: 1.0
 build: 1
