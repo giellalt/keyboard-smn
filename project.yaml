@@ -36,11 +36,11 @@ targets:
   osx:
     <<: *AppleID
     icon: images/smn-keyboard-menu-icon.png
-    version: 0.1.0
+    version: 0.1.1
     resources: doc
 
   win:
     appName: *bundleName
-    version: 0.1.1
+    version: 0.1.2
     url: "http://divvun.no"
     uuid: "replace-with-real-uuid-one-for-each-language"
