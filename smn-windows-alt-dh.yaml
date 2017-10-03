@@ -36,7 +36,7 @@ modes:
   iso-caps: |
     § 1 2 3 4 5 6 7 8 9 0 + ´
       Á Š E R T Y U I O P Â Ŋ
-      A S D F G H J K L Đ Æ *
+      A S D F G H J K L Đ Ä *
     Ž Z Č C V B N M , . -
   # caps+shift
   iso-caps+shift: |

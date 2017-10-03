@@ -2,14 +2,14 @@
 internalName: smn-macos
 
 displayNames:
-  smn: Anarâškielâ
-  en: Inari Sami
-  fi: Inarinsaame
-  nb: Enaresamisk
-  nn: Enaresamisk
-  'no': Enaresamisk
-  se: Anársámegiella
-  sv: Enaresamiska
+  smn: Anarâškielâ (default)
+  en: Inari Sami (default)
+  fi: Inarinsaame (default)
+  nb: Enaresamisk (default)
+  nn: Enaresamisk (default)
+  'no': Enaresamisk (default)
+  se: Anársámegiella (default)
+  sv: Enaresamiska (default)
 
 locale: smn
 
