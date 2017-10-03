@@ -36,25 +36,25 @@ modes:
   iso-caps: |
     § 1 2 3 4 5 6 7 8 9 0 + ´
       Á Š E R T Y U I O P Â Ŋ
-      A S D F G H J K L Ö Æ Đ
+      A S D F G H J K L Đ Æ *
     Ž Z Č C V B N M , . -
   # caps+shift
   iso-caps+shift: |
     ½ ! " # ¤ % & / ( ) = ? `
       á š e r t y u i o p â ŋ
-      a s d f g h j k l ö ä đ
+      a s d f g h j k l đ ä '
     ž z č c v b n m ; : _
   # altR+caps? ctrl+alt+caps?
   iso-alt: |
     |     \u{0} @     £     $     €     \u{0} {     [     ]     }     \ \u{0}
-          q     w     €     \u{0} ŧ     \u{0} \u{0} ï     õ     \u{0} å ~
-          á     ß     ð     ǥ     ǧ     ȟ     \u{0} ǩ     \u{0} ø     æ \u{0}
+          q     w     €     \u{0} ŧ     \u{0} ø     ï     õ     \u{0} å ~
+          á     ß     ð     ǥ     ǧ     ȟ     \u{0} ǩ     \u{0} ö     æ \u{0}
     ǯ     ʒ     x     ç     \u{0} \u{0} \u{0} µ     \u{0} \u{0} \u{0}
   # altR+shift+caps? ctrl+alt+shift+caps?
   iso-alt+shift: |
     \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0}
-          Q     W     \u{0} \u{0} Ŧ     \u{0} \u{0} Ï     Õ     \u{0} Å     \u{0}
-          \u{0} SS    Ð     Ǥ     Ǧ     Ȟ     \u{0} Ǩ     \u{0} Ø     Æ     \u{0}
+          Q     W     \u{0} \u{0} Ŧ     \u{0} Ø     Ï     Õ     \u{0} Å     \u{0}
+          \u{0} SS    Ð     Ǥ     Ǧ     Ȟ     \u{0} Ǩ     \u{0} Ö     Æ     \u{0}
     Ǯ     Ʒ     X     Ç     \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0}
   # ctrl+caps?
   iso-ctrl: |
