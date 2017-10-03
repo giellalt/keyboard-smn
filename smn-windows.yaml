@@ -19,7 +19,7 @@ supportedTargets: [win, x11, svg]
 targets:
   win:
     locale: smn-Latn-FI
-    languageName: Inari Sami (default)
+    languageName: Anarâškielâ (default)
 
 modes:
   # default
