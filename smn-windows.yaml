@@ -3,14 +3,14 @@
 internalName: smn-windows
 
 displayNames:
-  smn: Anarâškielâ (default)
-  en: Inari Sami (default)
-  fi: Inarinsaame (default)
-  nb: Enaresamisk (default)
-  nn: Enaresamisk (default)
-  'no': Enaresamisk (default)
-  se: Anársámegiella (default)
-  sv: Enaresamiska (default)
+  smn:   Anarâškielâ - sme Đ
+  en:     Inari Sami - sme Đ
+  fi:    Inarinsaame - sme Đ
+  nb:    Enaresamisk - sme Đ
+  nn:    Enaresamisk - sme Đ
+  'no':  Enaresamisk - sme Đ
+  se: Anársámegiella - sme Đ
+  sv:   Enaresamiska - sme Đ
 
 locale: smn
 
@@ -18,8 +18,9 @@ supportedTargets: [win, x11, svg]
 
 targets:
   win:
-    locale: smn-Latn-FI
-    languageName: Anarâškielâ (default)
+    id: smn01
+    locale: smn-Latn
+    languageName: Anarâškielâ
 
 modes:
   # default
@@ -48,10 +49,10 @@ modes:
     ž z č c v b n m ; : _
   # altR+caps? ctrl+alt+caps?
   iso-alt: |
-    |     \u{0} @     £     $     €     \u{0} {     [     ]     }     \ \u{0}
-          q     w     €     \u{0} ŧ     \u{0} \u{0} ï     õ     \u{0} å ~
-          á     ß     ð     ǥ     ǧ     ȟ     \u{0} ǩ     \u{0} ø     æ \u{0}
-    ǯ     ʒ     x     ç     \u{0} \u{0} \u{0} µ     \u{0} \u{0} \u{0}
+    | \u{0} @ £ $     €     \u{0} {     [     ]     }     \ \u{0}
+      q     w € \u{0} ŧ     \u{0} \u{0} ï     õ     \u{0} å ~
+      á     ß ð ǥ     ǧ     ȟ     \u{0} ǩ     \u{0} ø     æ \u{0}
+    ǯ ʒ     x ç \u{0} \u{0} \u{0} µ     \u{0} \u{0} \u{0}
   # altR+shift+caps? ctrl+alt+shift+caps?
   iso-alt+shift: |
     \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0}

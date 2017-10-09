@@ -1,15 +1,15 @@
 ### Generated from fi-t-k0-osx-extended.xml on 2017-06-08 at 22:03.
-internalName: smn-macos-altdh
+internalName: smn-macos-alt-dh
 
 displayNames:
-  smn: Anarâškielâ (alt Đ)
-  en: Inari Sami (alt Đ)
-  fi: Inarinsaame (alt Đ)
-  nb: Enaresamisk (alt Đ)
-  nn: Enaresamisk (alt Đ)
-  'no': Enaresamisk (alt Đ)
-  se: Anársámegiella (alt Đ)
-  sv: Enaresamiska (alt Đ)
+  smn:   Anarâškielâ - alt Đ
+  en:     Inari Sami - alt Đ
+  fi:    Inarinsaame - alt Đ
+  nb:    Enaresamisk - alt Đ
+  nn:    Enaresamisk - alt Đ
+  'no':  Enaresamisk - alt Đ
+  se: Anársámegiella - alt Đ
+  sv:   Enaresamiska - alt Đ
 
 locale: smn
 

@@ -14,7 +14,13 @@ email: trond.trosterud@uit.no
 copyright: (c) 2017 Divvun/Giellatekno/UiT
 organisation: UiT Norgga árktalaš universitehta
 
-layouts: [smn,smn-macos,smn-windows,smn-macos-alt-dh,smn-windows-alt-dh]
+# Alternative list format, easier to read:
+layouts:
+  - smn
+  - smn-macos
+  - smn-macos-alt-dh
+  - smn-windows
+  - smn-windows-alt-dh
 
 version: 1.0
 build: 1
@@ -36,11 +42,11 @@ targets:
   osx:
     <<: *AppleID
     icon: images/smn-keyboard-menu-icon.png
-    version: 0.1.1
+    version: 0.1.2
     resources: doc
 
   win:
     appName: *bundleName
-    version: 0.1.2
+    version: 0.2.0
     url: "http://divvun.no"
-    uuid: "replace-with-real-uuid-one-for-each-language"
+    uuid: "2c8b6556-16b7-4342-b0c0-57caffd536c6"
