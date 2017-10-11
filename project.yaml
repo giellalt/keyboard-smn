@@ -47,6 +47,6 @@ targets:
 
   win:
     appName: *bundleName
-    version: 0.2.0
+    version: 0.2.1
     url: "http://divvun.no"
     uuid: "2C8B6556-16B7-4342-B0C0-57CAFFD536C6"
