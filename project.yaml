@@ -8,8 +8,8 @@ locales:
     name: "Inari Sami tastatur"
     description: "Mobiltastatur for Inari Sami fra Divvun-gruppa."
 
-author: Trond Trosterud, UiT Norgga árktalaš universitehta
-email: trond.trosterud@uit.no
+author: Giellatekno & Divvun, UiT Norgga árktalaš universitehta
+email: feedback@divvun.no
 
 copyright: (c) 2017 Divvun/Giellatekno/UiT
 organisation: UiT Norgga árktalaš universitehta
@@ -18,9 +18,7 @@ organisation: UiT Norgga árktalaš universitehta
 layouts:
   - smn
   - smn-macos
-  - smn-macos-alt-dh
   - smn-windows
-  - smn-windows-alt-dh
 
 version: 1.0
 build: 1
@@ -42,11 +40,11 @@ targets:
   osx:
     <<: *AppleID
     icon: images/smn-keyboard-menu-icon.png
-    version: 0.1.2
+    version: 1.0.0
     resources: doc
 
   win:
     appName: *bundleName
-    version: 0.2.3
+    version: 1.0.0
     url: "http://divvun.no"
     uuid: "2C8B6556-16B7-4342-B0C0-57CAFFD536C6"
