@@ -1,15 +1,15 @@
 ### Generated from fi-t-k0-osx-extended.xml on 2017-06-08 at 22:03.
-internalName: smn-macos-alt-dh
+internalName: smn-mac
 
 displayNames:
-  smn:   Anarâškielâ - alt Đ
-  en:     Inari Sami - alt Đ
-  fi:    Inarinsaame - alt Đ
-  nb:    Enaresamisk - alt Đ
-  nn:    Enaresamisk - alt Đ
-  'no':  Enaresamisk - alt Đ
-  se: Anársámegiella - alt Đ
-  sv:   Enaresamiska - alt Đ
+  smn:   Anarâškielâ
+  en:    Inari Sami
+  fi:    Inarinsaame
+  nb:    Enaresamisk
+  nn:    Enaresamisk
+  'no':  Enaresamisk
+  se: Anársámegiella
+  sv:   Enaresamiska
 
 locale: smn
 
@@ -28,7 +28,7 @@ modes:
       Á Š E R T Y U I O P Â Ŋ
       A S D F G H J K L Đ Ä *
     Ž Z Č C V B N M ; : _
-  # caps
+  #" # caps
   iso-caps: |
     ' 1 2 3 4 5 6 7 8 9 0 + ´
       Á Š E R T Y U I O P Â Ŋ
@@ -58,7 +58,18 @@ modes:
       \u{11} \u{17} \u{5} \u{12} \u{14} \u{19} \u{15} \u{9} \u{F} \u{10} \u{1B} \u{1D}
       \u{1}  \u{13} \u{4} \u{6}  \u{7}  \u{8}  \u{A}  \u{B} \u{C} ;      '      \u{1C}
     0 \u{1A} \u{18} \u{3} \u{16} \u{2}  \u{E}  \u{D}  ,     .     /
-  # cmd+opt+caps?
+  # cmd keys:
+  osx-cmd: |
+    § 1 2 3 4 5 6 7 8 9 0 + ´
+      q w e r t y u i o p å ¨
+      a s d f g h j k l ö ä '
+    < z x c v b n m , . -
+  osx-cmd+shift: |
+    ° ! " # € % & / ( ) = ? `
+      Q W E R T Y U I O P Å ˆ
+      A S D F G H J K L Ö Ä *
+    > Z X C V B N M ; : _
+  #" # cmd+opt+caps?
   osx-cmd+alt: |
     ≤ © ™ £ €     §     \u{0} | [ ] ≈ ± `
       • , é \u{0} ŧ     µ     ü ı œ þ ˙ ˜
