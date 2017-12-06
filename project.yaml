@@ -40,7 +40,7 @@ targets:
   osx:
     <<: *AppleID
     icon: images/smn-keyboard-menu-icon.png
-    version: 1.0.0
+    version: 1.0.1
     resources: doc
 
   win:

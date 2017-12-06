@@ -4,7 +4,7 @@ xkb_symbols "basic" {
     include "latin"
     name[Group1] = "Anarâškielâ (macOS)";
 
-    key <AE00> { [ apostrophe,    section, apostrophe,    section ] };
+    key <AE00> { [    section,     degree,  paragraph, enfilledcircbullet ] };
     key <AE01> { [          1,     exclam,  copyright, exclamdown ] };
     key <AE02> { [          2,   quotedbl,  trademark, registered ] };
     key <AE03> { [          3, numbersign,   sterling,        yen ] };
