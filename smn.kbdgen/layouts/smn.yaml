@@ -7,6 +7,7 @@ displayNames:
   'no': Enaresamisk
   se: Anársámegiella
   sv: Enaresamiska
+decimal: ","
 modes:
   mobile:
     default: |
