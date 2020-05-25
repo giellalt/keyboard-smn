@@ -796,11 +796,11 @@ space:
 targets:
   ios:
     legacyName: inari_sami_keyboard
-    spellerPackageKey: https://pahkat.uit.no/main/packages/speller-smn
+    spellerPackageKey: https://pahkat.uit.no/main/packages/speller-smn?channel=nightly&platform=mobile
     spellerPath: smn.bhfst
   android:
     legacyName: inari_sami_keyboard
-    spellerPackageKey: https://pahkat.uit.no/main/packages/speller-smn
+    spellerPackageKey: https://pahkat.uit.no/main/packages/speller-smn?channel=nightly&platform=mobile
     spellerPath: smn.bhfst
   win:
     locale: smn-Latn
