@@ -1,4 +1,4 @@
-# Keyboard layout(s) for __UNDEFINED__
+# Keyboard layouts for Inari Sámi
 
 **Legend:**
 
@@ -10,8 +10,8 @@
 
 ## Anarâškielâ (macOS)
 
-  
+![Alt text](smn-mac.svg)
 
 ## Anarâškielâ (Windows)
 
-  
+![Alt text](smn-win.svg)
