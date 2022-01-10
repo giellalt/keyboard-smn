@@ -8,10 +8,10 @@
 |**Deadkey** | green   | orange       | pink                    | green                    |
 
 
-## Anarâškielâ (macOS)
+# Anarâškielâ (macOS)
 
 ![Alt text](smn-mac.svg)
 
-## Anarâškielâ (Windows)
+# Anarâškielâ (Windows)
 
 ![Alt text](smn-win.svg)
