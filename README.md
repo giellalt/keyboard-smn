@@ -62,4 +62,3 @@ Installation depends on the operating system. Here are brief instructions:
 Unless you explicitly state otherwise, any contribution intentionally submitted
 for inclusion in the work by you shall be licensed as above, without any
 additional terms or conditions.
-
