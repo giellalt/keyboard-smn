@@ -1,17 +1,43 @@
-# Keyboard layouts for Inari Sámi
+---
+layout: default
+---
 
-**Legend:**
+# Keyboard layouts for Inari Sami / Anarâškielâ
 
-| Mode       | Default | AltGr/Option | Caps Lock (Mode Switch) | Caps Lock + AltGr/Option |
-| ----------:|:-------:|:------------:|:-----------------------:|:------------------------:|
-|**Standard**| black   | red          | blue                    | purple                   |
-|**Deadkey** | green   | orange       | pink                    | green                    |
+> Tip: These keyboards are interactive — click or tap keys to explore different layers (Shift, Alt, etc.)
 
+## Mac
 
-# Anarâškielâ (macOS)
+<iframe src="https://keyboard.giellalt.org/embed?kbd=smn&layout=smn&platform=macOS&variant=primary"></iframe>
 
-![Alt text](smn-mac.svg)
+## Windows
 
-# Anarâškielâ (Windows)
+<iframe src="https://keyboard.giellalt.org/embed?kbd=smn&layout=smn&platform=windows&variant=primary"></iframe>
 
-![Alt text](smn-win.svg)
+## ChromeOS
+
+<iframe src="https://keyboard.giellalt.org/embed?kbd=smn&layout=smn&platform=chromeOS&variant=primary"></iframe>
+
+## Android
+
+### Phone
+
+<iframe src="https://keyboard.giellalt.org/embed?kbd=smn&layout=smn&platform=android&variant=primary"></iframe>
+
+### Tablet
+
+<iframe src="https://keyboard.giellalt.org/embed?kbd=smn&layout=smn&platform=android&variant=tablet-600"></iframe>
+
+## iOS/iPadOS
+
+### iPhone
+
+<iframe src="https://keyboard.giellalt.org/embed?kbd=smn&layout=smn&platform=iOS&variant=primary"></iframe>
+
+### 9" iPad
+
+<iframe src="https://keyboard.giellalt.org/embed?kbd=smn&layout=smn&platform=iOS&variant=iPad-9in"></iframe>
+
+### 12" iPad
+
+<iframe src="https://keyboard.giellalt.org/embed?kbd=smn&layout=smn&platform=iOS&variant=iPad-12in"></iframe>
